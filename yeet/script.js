@@ -1,0 +1,14 @@
+console.log("Obi-Wan Kenobi jumps down from the upper levels");
+console.warn('"Hello there!"');
+console.log("All droids activate their weapons and surround Obi-Wan");
+console.error('"General Kenobi. You are a bold one."');
+console.info("addressing the Magna Guards");
+console.error('"Kill him!"');
+console.log("The Magna Guards advance");
+console.log("Obi-wan pulls down a heating vent on top of them");
+console.info("General Grievous addressing the droids");
+console.error('"Back away! I will deal with this Jedi slime myself."');
+console.warn('"Your move."');
+console.error('"You fool. I\'ve been trained in your Jedi arts by Count Dooku."');
+console.log("Grievous' two arms split into four. Each activates and wields a stolen lightsaber");
+console.error('"Attack, Kenobi!"');
